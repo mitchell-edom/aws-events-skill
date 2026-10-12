@@ -1,6 +1,6 @@
 # AWS Events API & MCP Skill
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blue.svg)](https://modelcontextprotocol.io)
 
 An AI assistant skill and Model Context Protocol (MCP) configuration for interacting with the **AWS Events API** (`api.awsevents.com`). Designed for Google Antigravity, Kiro, Claude Code, and other MCP-compatible coding assistants to explore AWS conference session catalogs (such as **AWS re:Invent**), manage reservations, track favorites, and plan personal schedules.
