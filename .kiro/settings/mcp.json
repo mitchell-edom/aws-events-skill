@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "awsevents": {
+      "serverUrl": "https://api.awsevents.com/mcp",
+      "url": "https://api.awsevents.com/mcp",
+      "oauth": {
+        "clientId": "7vmom55m1qstvq8i71ph127bfq",
+        "redirectUri": "http://127.0.0.1:8976",
+        "oauthScopes": [
+          "openid",
+          "email",
+          "events/access"
+        ]
+      }
+    }
+  }
+}
